@@ -15,5 +15,8 @@ if not pcall(require, "lazy") then
   vim.cmd.quit()
 end
 
+-- Set colorscheme to use
+colorscheme = "catppuccin-mocha",
+
 require "lazy_setup"
 require "polish"
