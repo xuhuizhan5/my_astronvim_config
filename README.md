@@ -28,7 +28,7 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 #For example, "git clone https://github.com/xuhuizhan5/my_astronvim_config.git ~/.config/nvim"
 ```
 
-#### Start Neovim
+#### Restart Neovim to make the changes effective
 
 ```shell
 nvim
